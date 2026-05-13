@@ -1,0 +1,55 @@
+Script started on Tue May 12 21:54:33 2026
+Restored session: Tue May 12 21:43:52 MSK 2026
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hppwd[?2004l
+/Users/mrgrad
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/etc[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej /etc % [K[?2004hlls[?2004l
+afpovertcp.cfg				localtime				protocols
+aliases					locate.rc				racoon
+aliases.db				mail.rc					rc.common
+apache2					man.conf				rc.netboot
+asl					manpaths				resolv.conf
+asl.conf				manpaths.d				rmtab
+auto_home				master.passwd				rpc
+auto_master				networks				rtadvd.conf
+autofs.conf				newsyslog.conf				security
+bashrc					newsyslog.d				services
+bashrc_Apple_Terminal			nfs.conf				shells
+com.apple.screensharing.agent.launchd	notify.conf				snmp
+csh.cshrc				ntp.conf				ssh
+csh.login				ntp_opendirectory.conf			ssl
+csh.logout				openldap				sudo_lecture
+cups					pam.d					sudoers
+find.codes				passwd					sudoers.d
+ftpusers				paths					syslog.conf
+gettytab				paths.d					ttys
+group					pf.anchors				uucp
+hosts					pf.conf					wfs
+hosts.equiv				pf.os					xtab
+irbrc					postfix					zprofile
+kern_loader.conf			ppp					zshrc
+krb5.keytab				profile					zshrc_Apple_Terminal
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/etc[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej /etc % [K[?2004hccd /a var/log[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004hppwd[?2004l
+/var/log
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004h[7mls /usr/bin | wc -l[27m[19D[27ml[27ms[27m [27m/[27mu[27ms[27mr[27m/[27mb[27mi[27mn[27m [27m|[27m [27mw[27mc[27m [27m-[27ml[?2004l
+     924
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hppwd[?2004l
+/Users/mrgrad
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hccd /var/log[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004hppwd[?2004l
+/var/log
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004hccd~[?2004l
+zsh: command not found: cd~
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/var/log[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej log % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hppwd[?2004l
+/Users/mrgrad
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue May 12 21:55:59 2026

@@ -1,0 +1,21 @@
+Script started on Wed May 13 06:55:23 2026
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004h[7mgrep " 200 " nginx_logs | wc -l[27m[31D[27mg[27mr[27me[27mp[27m [27m"[27m [27m2[27m0[27m0[27m [27m"[27m [27mn[27mg[27mi[27mn[27mx[27m_[27ml[27mo[27mg[27ms[27m [27m|[27m [27mw[27mc[27m [27m-[27ml[?2004l
+    4028
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004h[7mwc -l /Users/mrgrad/nginx_logs[27m[30D[27mw[27mc[27m [27m-[27ml[27m [27m/[27mU[27ms[27me[27mr[27ms[27m/[27mm[27mr[27mg[27mr[27ma[27md[27m/[27mn[27mg[27mi[27mn[27mx[27m_[27ml[27mo[27mg[27ms[?2004l
+   51462 /Users/mrgrad/nginx_logs
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004h[7mawk '($9 ~ /[45][0-9][0-9]/)' /Users/mrgrad/nginx_logs | wc -l[27m[62D[27ma[27mw[27mk[27m [27m'[27m([27m$[27m9[27m [27m~[27m [27m/[27m[[27m4[27m5[27m][27m[[27m0[27m-[27m9[27m][27m[[27m0[27m-[27m9[27m][27m/[27m)[27m'[27m [27m/[27mU[27ms[27me[27mr[27ms[27m/[27mm[27mr[27mg[27mr[27ma[27md[27m/[27mn[27mg[27mi[27mn[27mx[27m_[27ml[27mo[27mg[27ms[27m [27m|[27m [27mw[27mc[27m [27m-[27ml[?2004l
+   33918
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004h[7mcat nginx_logs | awk '{print $1}' | sort | uniq -c | sort -rn | head -n 5[27m[73D[27mc[27ma[27mt[27m [27mn[27mg[27mi[27mn[27mx[27m_[27ml[27mo[27mg[27ms[27m [27m|[27m [27ma[27mw[27mk[27m [27m'[27m{[27mp[27mr[27mi[27mn[27mt[27m [27m$[27m1[27m}[27m'[27m [27m|[27m [27ms[27mo[27mr[27mt[27m [27m|[27m [27mu[27mn[27mi[27mq[27m [27m-[27mc[27m [27m|[27m [27ms[27mo[27mr[27mt[27m [27m-[27mr[27mn[27m [27m|[27m [27mh[27me[27ma[27md[27m [27m-[27mn[27m [27m5[?2004l
+2350 216.46.173.126
+1720 180.179.174.219
+1439 204.77.168.241
+1365 65.39.197.164
+1202 80.91.33.133
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed May 13 06:56:17 2026

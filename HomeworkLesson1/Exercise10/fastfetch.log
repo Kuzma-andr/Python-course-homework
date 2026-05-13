@@ -1,0 +1,24 @@
+total 2000
+drwxr-xr-x  23 root            wheel     736 May 13 03:48 .
+drwxr-xr-x  33 root            wheel    1056 May 13 03:01 ..
+drwxr-xr-x   3 root            wheel      96 May 13 03:48 AmneziaVPN
+drwxr-xr-x   2 root            wheel      64 Apr 30 22:33 CoreDuet
+drwxr-x---   5 root            admin     160 May 13 03:01 DiagnosticMessages
+drwxr-xr-x   2 root            wheel      64 Apr 30 22:33 apache2
+drwxr-xr-x   7 root            wheel     224 May 13 05:40 asl
+drwxr-xr-x   5 root            wheel     160 May 13 03:33 com.apple.wifi.analytics
+drwxr-xr-x   2 root            wheel      64 May 13 03:13 com.apple.wifivelocity
+drwxr-xr-x   5 root            wheel     160 May 13 06:51 com.apple.xpc.launchd
+drwxr-xr-x   2 root            wheel      64 Apr 30 22:33 cups
+drwxr-xr-x   2 root            wheel      64 Apr 30 22:33 dm
+-rw-r--r--   1 root            wheel    5864 May 13 04:32 fsck_apfs.log
+-rw-r--r--   1 root            wheel    3223 May 13 04:32 fsck_apfs_error.log
+-rw-r--r--   1 root            wheel     603 May 13 04:36 fsck_hfs.log
+-rw-r--r--@  1 root            wheel  386312 May 13 06:11 install.log
+-rw-r--r--   1 root            wheel    1005 May 13 02:59 keybagd.log.0
+drwxr-xr-x   2 _mdnsresponder  wheel      64 Apr 30 22:33 mDNSResponder
+drwxr-xr-x@  5 root            admin     160 May 13 03:00 powermanagement
+drwxr-xr-x   2 root            wheel      64 Apr 30 22:33 ppp
+-rw-r-----@  1 root            admin    8691 May 13 07:09 system.log
+drwxr-xr-x   2 _uucp           wheel      64 Apr 30 22:33 uucp
+-rw-r--r--   1 root            wheel  540835 May 13 07:10 wifi.log

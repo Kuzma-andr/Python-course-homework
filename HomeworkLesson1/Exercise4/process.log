@@ -1,0 +1,18 @@
+Script started on Tue May 12 23:03:46 2026
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hssleep 300 7 &[?2004l
+[1] 15578
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hppgrep sleep[?2004l
+15578
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hpps aux | pgrep sleep[?2004l
+15578
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hlli;;  l  lli;;  l  kkill 15578[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        [1]  + terminated  sleep 300
+]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004hppgrep sleep[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Pro-Andrej.local/Users/mrgrad[0m[27m[24m[Jmrgrad@MacBook-Pro-Andrej ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue May 12 23:05:07 2026
