@@ -1,0 +1,293 @@
+Script started on 2026-05-16 00:08:11+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="238" LINES="61"]
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo gri[Koupadd dee[Kvelopers
+[?2004l]133;C\]666;vte.shell.preexec!\[sudo: authenticate] Password: **********          
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ u[Ksuo[Kdo usr[Keradd -m -s .[K/bin/bash frodo
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo passwd frodo
+[?2004l]133;C\]666;vte.shell.preexec!\New password: 
+Retype new password: 
+passwd: password updated successfully
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo usermod =a[K[K-aG f[Kdevelopers frodo
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ id frodo
+[?2004l]133;C\]666;vte.shell.preexec!\uid=1002(frodo) gid=1004(frodo) groups=1004(frodo),1003(developers)
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo touch .[K.[K/opt.[K/team-project.conf
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 36
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [0m[01;34mDesktop[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mDocuments[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:39 [01;34mDownloads[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mMusic[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mPictures[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mPublic[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mTemplates[0m
+drwxr-xr-x 2 mrgrad mrgrad 4096 May 14 17:09 [01;34mVideos[0m
+-rw-rw-r-- 1 mrgrad mrgrad    0 May 16 00:08 addingnewuser.log
+drwx------ 9 mrgrad mrgrad 4096 May 14 18:00 [01;34msnap[0m
+-rw-r--r-- 1 mrgrad staff     0 May 15 09:38 text.txt
+-rw-rw-r-- 1 mrgrad mrgrad    0 May 15 09:39 text2.txt
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ cd /opt/tea[K[K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 4
+dr-xr-xr-x 5 root root 4096 May 14 17:44 [0m[01;34mAmneziaVPN[0m
+-rw-r--r-- 1 root root    0 May 16 00:12 team-project.conf
+]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ cd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo s[Kchown frodo:developers/opr[Kt/team-project.conf + chown  600 tean[Km-profe[K[Kject.conf
+[?2004l]133;C\]666;vte.shell.preexec!\chown: invalid group: 'frodo:developers/opt/team-project.conf'
+]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo chown frodo:developers/opt/team-project.conf + chown  600 team-project.conf[1@ 
+[?2004l]133;C\]666;vte.shell.preexec!\chown: cannot dereference '+': No such file or directory
+chown: cannot dereference 'chown': No such file or directory
+chown: cannot dereference '600': No such file or directory
+chown: cannot dereference 'team-project.conf': No such file or directory
+]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo chown frodo:developers /opt/team-project.conf + chown  600 team-project.conf[C[1P[1P[1P[1P[1@m[1@o[1@d[1P[1P[1P[1@h[1@m[1@o[1@d
+[?2004l]133;C\]666;vte.shell.preexec!\chown: cannot dereference '+': No such file or directory
+chown: cannot dereference 'chmod': No such file or directory
+chown: cannot dereference '600': No such file or directory
+chown: cannot dereference 'team-project.conf': No such file or directory
+]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo chown frodo:developers /opt/team-project.conf + chmod  600 team-project.confown[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Ksudo chown frodo:developers/opt/team-project.conf + chown  600 team-project.conf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kf
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo chmod 650 [K[K[K40 team [K-project.conf
+[?2004l]133;C\]666;vte.shell.preexec!\chmod: cannot access 'team-project.conf': No such file or directory
+]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ cd /opt [K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mAmneziaVPN[0m  team-project.conf
+]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ lscd /optsudo chmod 640 team-project.conf
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 4
+dr-xr-xr-x 5 root  root       4096 May 14 17:44 [0m[01;34mAmneziaVPN[0m
+-rw-r----- 1 frodo developers    0 May 16 00:12 team-project.conf
+]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ su[K[Kcd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ su fro[K[K[K[K[Ku - frodo
+[?2004l]133;C\]666;vte.shell.preexec!\Password: 
+]3008;start=48bca58d429d424da8435b2573d6ed19;user=mrgrad;hostname=mrgradNT;machineid=8bd38a8c1696473586ee5a139f2fab4d;bootid=71b068becb194859913e32194bc10f5a;pid=121402;pidfdid=139550;comm=su;targetuser=frodo;sessionid=c18;type=session\]3008;start=0fe1e0a2-d09d-438a-8e57-484aae6bb719;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ whoami,[K; pwd; id
+[?2004l]3008;start=72e5d49f-84d6-4f76-9a42-aca5af4d3b8f;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=command;cwd=/home/frodo\frodo
+/home/frodo
+uid=1002(frodo) gid=1004(frodo) groups=1004(frodo),1003(developers)
+]3008;end=72e5d49f-84d6-4f76-9a42-aca5af4d3b8f;exit=success\]3008;start=0fe1e0a2-d09d-438a-8e57-484aae6bb719;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cat /opt/team_proje[K[K[K[K[K[K-project.conf
+[?2004l]3008;start=eaf31a9e-ecea-4c47-92d1-888ec5b8dab2;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=command;cwd=/home/frodo\]3008;end=eaf31a9e-ecea-4c47-92d1-888ec5b8dab2;exit=success\]3008;start=0fe1e0a2-d09d-438a-8e57-484aae6bb719;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cat /opt/team-project.conf[1@s[1@u[1@d[1@o[1@ 
+[?2004l]3008;start=0d131042-ada6-4566-a04d-e13c02a7b281;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=command;cwd=/home/frodo\sudo: I'm sorry frodo. I'm afraid I can't do that
+]3008;end=0d131042-ada6-4566-a04d-e13c02a7b281;exit=failure;status=1\]3008;start=0fe1e0a2-d09d-438a-8e57-484aae6bb719;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ exit
+[?2004l]3008;start=30eefd4a-9bd0-4576-9eb9-8db4bb113521;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000121449;type=command;cwd=/home/frodo\logout
+]3008;end=48bca58d429d424da8435b2573d6ed19\]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo su - frodo
+[?2004l]133;C\]666;vte.shell.preexec!\]3008;start=c78b92caef3f4bbb9170162b35e7c0fe;user=root;hostname=mrgradNT;machineid=8bd38a8c1696473586ee5a139f2fab4d;bootid=71b068becb194859913e32194bc10f5a;pid=122514;pidfdid=139612;comm=su;targetuser=frodo;sessionid=c19;type=session\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ exitsudo cat /opt/team-project.conf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]3008;start=23a5c307-b526-4314-a3ae-9533741e35e0;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/home/frodo\]3008;end=23a5c307-b526-4314-a3ae-9533741e35e0;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cat /opt/team-project.conf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ksudo cat /opt/team-project.conf
+[?2004l]3008;start=2bc64d5f-c4ed-4f72-ba7b-6e5c18619e37;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/home/frodo\sudo: I'm sorry frodo. I'm afraid I can't do that
+]3008;end=2bc64d5f-c4ed-4f72-ba7b-6e5c18619e37;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ nano /p[Kopt/team-project.conf
+[?2004l]3008;start=11e06aef-6916-47b6-b832-c5a38ea2dd89;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/home/frodo\[?2004h[?1049h[22;0;0t[1;61r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[59;102H(B[0;1m[37m[41m[ Directory '/opt' is not writable ][39;49m(B[m[H(B[0;7m  GNU nano 8.7.1                                                                                               /opt/team-project.conf                                                                                                         [1;237H(B[m[60d(B[0;7m^G(B[m Help[60;19H(B[0;7m^O(B[m Write Out[37G(B[0;7m^F(B[m Where Is[55G(B[0;7m^K(B[m Cut[60;73H(B[0;7m^T(B[m Execute[60;91H(B[0;7m^C(B[m Location[109G(B[0;7mM-U(B[m Undo[60;127H(B[0;7mM-A(B[m Set Mark[145G(B[0;7mM-](B[m To Bracket    (B[0;7mM-B(B[m Previous[181G(B[0;7m◂(B[m Back[60;199H(B[0;7m^◂(B[m Prev Word[217G(B[0;7m^A(B[m Home[61d(B[0;7m^X(B[m Exit[61;19H(B[0;7m^R(B[m Read File[37G(B[0;7m^\(B[m Replace[61;55H(B[0;7m^U(B[m Paste[61;73H(B[0;7m^J(B[m Justify[61;91H(B[0;7m^/(B[m Go To Line     (B[0;7mM-E(B[m Redo[61;127H(B[0;7mM-6(B[m Copy[61;145H(B[0;7m^B(B[m Where Was[163G(B[0;7mM-F(B[m Next[61;181H(B[0;7m▸(B[m Forward[61;199H(B[0;7m^▸(B[m Next Word[217G(B[0;7m^E(B[m End[2d[?12l[?25h[?25l[59d[J[61d[?12l[?25h[61;1H[?1049l[23;0;0t[?1l>[?2004l]3008;end=11e06aef-6916-47b6-b832-c5a38ea2dd89;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cat /team[K[K[K[K[Kteam-project.conf
+[?2004l]3008;start=e46bcecd-c1c2-4c2c-bdf4-cd6b41f9704a;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/home/frodo\cat: team-project.conf: No such file or directory
+]3008;end=e46bcecd-c1c2-4c2c-bdf4-cd6b41f9704a;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cd /opt
+[?2004l]3008;start=c19d2bfb-8b10-45bc-b79b-6e291e86a0a3;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/home/frodo\]3008;end=c19d2bfb-8b10-45bc-b79b-6e291e86a0a3;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ ls-la
+[?2004l]3008;start=9d2f3c89-76c5-472a-b6a7-4ec55c73a88f;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\ls-la: command not found
+]3008;end=9d2f3c89-76c5-472a-b6a7-4ec55c73a88f;exit=failure;status=127\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ ls -la
+[?2004l]3008;start=def74cff-fb2d-4c8a-9032-fc84e9c9ffc5;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\total 12
+drwxr-xr-x  3 root  root       4096 May 16 00:12 [0m[01;34m.[0m
+drwxr-xr-x 20 root  root       4096 May 14 16:59 [01;34m..[0m
+dr-xr-xr-x  5 root  root       4096 May 14 17:44 [01;34mAmneziaVPN[0m
+-rw-r-----  1 frodo developers    0 May 16 00:12 team-project.conf
+]3008;end=def74cff-fb2d-4c8a-9032-fc84e9c9ffc5;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cat team0[K-project.conf
+[?2004l]3008;start=2395d72b-e062-4881-af29-6353fc145e07;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\]3008;end=2395d72b-e062-4881-af29-6353fc145e07;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cat team-project.conf[1@/
+[?2004l]3008;start=5a180e35-f56c-41ab-9df0-d9a917e500bc;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\cat: /team-project.conf: No such file or directory
+]3008;end=5a180e35-f56c-41ab-9df0-d9a917e500bc;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ tail team-project.conf
+[?2004l]3008;start=2e060b49-41bc-4e05-93c6-1ec164d92f94;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\]3008;end=2e060b49-41bc-4e05-93c6-1ec164d92f94;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ less con[K[K[Ktean-[K[Km-.conf
+[?2004l]3008;start=acdf5e87-5078-4b24-ad9a-7e9e2a7735a9;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\team-.conf: No such file or directory
+]3008;end=acdf5e87-5078-4b24-ad9a-7e9e2a7735a9;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cd /developers
+[?2004l]3008;start=46935abb-ef51-46bb-949f-5ebcb79ad1d0;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\-bash: cd: /developers: No such file or directory
+]3008;end=46935abb-ef51-46bb-949f-5ebcb79ad1d0;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ [K]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ [K]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ sudo cat tea-[Km-project.conf
+[?2004l]3008;start=dc6ea399-ba25-47d5-9006-04e66f5cbe15;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\sudo: I'm sorry frodo. I'm afraid I can't do that
+]3008;end=dc6ea399-ba25-47d5-9006-04e66f5cbe15;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ sudo su team-project.conf
+[?2004l]3008;start=19e43b92-2c83-4473-9e5c-2d354c809f9f;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\sudo: I'm sorry frodo. I'm afraid I can't do that
+]3008;end=19e43b92-2c83-4473-9e5c-2d354c809f9f;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cat team-projcet.conf
+[?2004l]3008;start=4763289f-05ed-4e02-88cc-376ea2c2609f;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\cat: team-projcet.conf: No such file or directory
+]3008;end=4763289f-05ed-4e02-88cc-376ea2c2609f;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cat team-projcet.conf[K[K[K[K[K[K[K[Kect.conf
+[?2004l]3008;start=64e3ddae-c0e3-409a-9f81-6a611639c708;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\]3008;end=64e3ddae-c0e3-409a-9f81-6a611639c708;exit=success\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ cs[Kat /otp[K[Kpt
+[?2004l]3008;start=7779b781-d622-476d-a2b7-a8f321edf4ff;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\cat: /opt: Is a directory
+]3008;end=7779b781-d622-476d-a2b7-a8f321edf4ff;exit=failure;status=1\]3008;start=c567789e-685c-4b76-9441-4d2d9c3aa5d6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=shell;cwd=/opt\[?2004h]0;frodo@mrgradNT: /opt[01;32mfrodo@mrgradNT[00m:[01;34m/opt[00m$ exit
+[?2004l]3008;start=9c607799-a34f-4eec-b591-f6ebef4b3f6d;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000122516;type=command;cwd=/opt\logout
+]3008;end=c78b92caef3f4bbb9170162b35e7c0fe\]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo chmod 644 team-project.conf
+[?2004l]133;C\]666;vte.shell.preexec!\chmod: cannot access 'team-project.conf': No such file or directory
+]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ //opt[K[K[K[Kopt[K[K[K[Kcd /opt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ cd /optsudo chmod 644 team-project.conf
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls -la
+[?2004l]133;C\]666;vte.shell.preexec!\total 12
+drwxr-xr-x  3 root  root       4096 May 16 00:12 [0m[01;34m.[0m
+drwxr-xr-x 20 root  root       4096 May 14 16:59 [01;34m..[0m
+dr-xr-xr-x  5 root  root       4096 May 14 17:44 [01;34mAmneziaVPN[0m
+-rw-r--r--  1 frodo developers    0 May 16 00:12 team-project.conf
+]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls -lasudo chmod 644 team-project.conf[C[1P[1@0
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls- la
+[?2004l]133;C\]666;vte.shell.preexec!\Command 'ls-' not found, did you mean:
+  command 'lsh' from deb lsh-client (2.1-14build2)
+  command 'lsc' from deb livescript (1.6.1+dfsg-4)
+  command 'ls' from deb coreutils-from-gnu (0.0.0~ubuntu25)
+  command 'ls' from deb coreutils-from-uutils (0.0.0~ubuntu25)
+  command 'ls' from deb coreutils-from-busybox (0.0.0~ubuntu25)
+  command 'ls' from deb coreutils-from-toybox (0.0.0~ubuntu25)
+  command 'lsw' from deb suckless-tools (49-1)
+  command 'lsd' from deb lsd (1.2.0-1)
+Try: sudo apt install <deb name>
+]666;vte.shell.postexec=127\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ ls -la
+[?2004l]133;C\]666;vte.shell.preexec!\total 12
+drwxr-xr-x  3 root  root       4096 May 16 00:12 [0m[01;34m.[0m
+drwxr-xr-x 20 root  root       4096 May 14 16:59 [01;34m..[0m
+dr-xr-xr-x  5 root  root       4096 May 14 17:44 [01;34mAmneziaVPN[0m
+-rw-r-----  1 frodo developers    0 May 16 00:12 team-project.conf
+]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ sudo su - frodo
+[?2004l]133;C\]666;vte.shell.preexec!\]3008;start=0846e2d2231c4222b530439009717130;user=root;hostname=mrgradNT;machineid=8bd38a8c1696473586ee5a139f2fab4d;bootid=71b068becb194859913e32194bc10f5a;pid=124566;pidfdid=139732;comm=su;targetuser=frodo;sessionid=c20;type=session\]3008;start=9eafe655-700c-4d8a-826f-00dcf87396a4;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ whoami: [K[K[Ki; pwd; id
+[?2004l]3008;start=2a848207-e249-42a3-9867-d3f28bb2b228;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=command;cwd=/home/frodo\frodo
+/home/frodo
+uid=1002(frodo) gid=1004(frodo) groups=1004(frodo),1003(developers)
+]3008;end=2a848207-e249-42a3-9867-d3f28bb2b228;exit=success\]3008;start=9eafe655-700c-4d8a-826f-00dcf87396a4;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$  tail[K[K[K[K[Ktail .[K/opt/team-profe[K[Kject.cof[Knf
+[?2004l]3008;start=5682631e-621d-4b7c-8a57-9034dd3352c6;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=command;cwd=/home/frodo\]3008;end=5682631e-621d-4b7c-8a57-9034dd3352c6;exit=success\]3008;start=9eafe655-700c-4d8a-826f-00dcf87396a4;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ cat /opt/team-project. [Kconf
+[?2004l]3008;start=172bf4c5-6954-4593-b315-c97d3c1f0289;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=command;cwd=/home/frodo\]3008;end=172bf4c5-6954-4593-b315-c97d3c1f0289;exit=success\]3008;start=9eafe655-700c-4d8a-826f-00dcf87396a4;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=shell;cwd=/home/frodo\[?2004h]0;frodo@mrgradNT: ~[01;32mfrodo@mrgradNT[00m:[01;34m~[00m$ sudo[K[K[K[Kexit
+[?2004l]3008;start=58e1c68c-3a8c-4f61-bdd7-970626af17ac;machineid=8bd38a8c1696473586ee5a139f2fab4d;user=frodo;hostname=mrgradNT;bootid=71b068be-cb19-4859-913e-32194bc10f5a;pid=00000000000000124600;type=command;cwd=/home/frodo\logout
+]3008;end=0846e2d2231c4222b530439009717130\]666;vte.shell.postexec=0\]7;file://mrgradNT/opt\]0;mrgrad@mrgradNT:/opt\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: /opt[01;32mmrgrad@mrgradNT[00m:[01;34m/opt[00m$ cd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ sudo userdel -r frodo
+[?2004l]133;C\]666;vte.shell.preexec!\userdel: frodo mail spool (/var/mail/frodo) not found
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ su
+[?2004l]133;C\]666;vte.shell.preexec!\Password: 
+]3008;start=9de2b542b5ab42f99f88573ab5183aff;user=mrgrad;hostname=mrgradNT;machineid=8bd38a8c1696473586ee5a139f2fab4d;bootid=71b068becb194859913e32194bc10f5a;pid=125238;pidfdid=19902;comm=su;targetuser=root;sessionid=c21;type=session\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# sudo userdel 0r [K[K[K-r frodo
+[?2004l]133;C\]666;vte.shell.preexec!\userdel: user 'frodo' does not exist
+]666;vte.shell.postexec=6\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# sudo groupdel developers
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# cat /etc/passwd
+[?2004l]133;C\]666;vte.shell.preexec!\root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin
+dhcpcd:x:996:996:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+messagebus:x:995:995:System Message Bus:/nonexistent:/usr/sbin/nologin
+syslog:x:100:101::/nonexistent:/usr/sbin/nologin
+systemd-resolve:x:989:989:systemd Resolver:/:/usr/sbin/nologin
+_chrony:x:988:988:Chrony Daemon:/var/lib/chrony:/usr/sbin/nologin
+tss:x:987:987:tss user for tpm2:/:/usr/sbin/nologin
+uuidd:x:101:105::/run/uuidd:/usr/sbin/nologin
+systemd-oom:x:986:986:systemd Userspace OOM Killer:/:/usr/sbin/nologin
+whoopsie:x:102:108::/nonexistent:/bin/false
+dnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin
+avahi:x:103:109:Avahi mDNS daemon:/run/avahi-daemon:/usr/sbin/nologin
+nm-openvpn:x:984:984:NetworkManager OpenVPN:/var/lib/openvpn/chroot:/usr/sbin/nologin
+tcpdump:x:983:983:tcpdump:/nonexistent:/usr/sbin/nologin
+sssd:x:104:110:SSSD system user:/var/lib/sss:/usr/sbin/nologin
+speech-dispatcher:x:105:29:Speech Dispatcher:/run/speech-dispatcher:/bin/false
+usbmux:x:106:46:usbmux daemon:/var/lib/usbmux:/usr/sbin/nologin
+cups-pk-helper:x:107:111:user for cups-pk-helper service:/nonexistent:/usr/sbin/nologin
+fwupd-refresh:x:982:982:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin
+saned:x:108:112::/var/lib/saned:/usr/sbin/nologin
+geoclue:x:109:113::/var/lib/geoclue:/usr/sbin/nologin
+cups-browsed:x:110:111::/nonexistent:/usr/sbin/nologin
+pipewire:x:981:981:system user for pipewire:/nonexistent:/usr/sbin/nologin
+hplip:x:111:7:HPLIP system user:/run/hplip:/bin/false
+gnome-remote-desktop:x:980:980:GNOME Remote Desktop:/var/lib/gnome-remote-desktop:/usr/sbin/nologin
+polkitd:x:979:979:User for polkitd:/:/usr/sbin/nologin
+rtkit:x:978:978:RealtimeKit:/proc:/usr/sbin/nologin
+colord:x:977:977:colord colour management daemon:/var/lib/colord:/usr/sbin/nologin
+gdm:x:975:975:Gnome Display Manager:/var/lib/gdm3:/bin/false
+mrgrad:x:1000:1000:mrgrad:/home/mrgrad:/bin/bash
+bilbo:x:1001:1001:Bilbo Beggins,,777,000:/home/bilbo:/bin/bash
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# cd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://mrgradNT/root\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: ~[01;32mroot@mrgradNT[00m:[01;34m~[00m# gep[K[Krep froro[K[Kdo etc[K[K[K//[Kec[Ktc/passwd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=1\]7;file://mrgradNT/root\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: ~[01;32mroot@mrgradNT[00m:[01;34m~[00m# grep developers[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+]3008;end=9de2b542b5ab42f99f88573ab5183aff\]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ grep frodo.[K /etc/passwd
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ su
+[?2004l]133;C\]666;vte.shell.preexec!\Password: 
+]3008;start=0c7f26ba7a694bd8b15c9bd51902162d;user=mrgrad;hostname=mrgradNT;machineid=8bd38a8c1696473586ee5a139f2fab4d;bootid=71b068becb194859913e32194bc10f5a;pid=125542;pidfdid=152392;comm=su;targetuser=root;sessionid=c22;type=session\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# grep develov[Kpers /etc/group
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=1\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# cate [K[K[Kt /te[K[Ketc/shs[Kadw[Kow[K[K[K[K[K[Kgroup
+[?2004l]133;C\]666;vte.shell.preexec!\root:x:0:
+daemon:x:1:
+bin:x:2:
+sys:x:3:
+adm:x:4:syslog,mrgrad
+tty:x:5:
+disk:x:6:
+lp:x:7:
+mail:x:8:
+news:x:9:
+uucp:x:10:
+man:x:12:
+proxy:x:13:
+kmem:x:15:
+dialout:x:20:
+fax:x:21:
+voice:x:22:
+cdrom:x:24:mrgrad
+floppy:x:25:
+tape:x:26:
+sudo:x:27:mrgrad
+audio:x:29:
+dip:x:30:mrgrad
+www-data:x:33:
+backup:x:34:
+operator:x:37:
+list:x:38:
+irc:x:39:
+src:x:40:
+shadow:x:42:
+utmp:x:43:
+video:x:44:
+sasl:x:45:
+plugdev:x:46:mrgrad
+staff:x:50:
+games:x:60:
+users:x:100:mrgrad,bilbo
+nogroup:x:65534:
+systemd-journal:x:999:
+systemd-network:x:998:
+crontab:x:997:
+dhcpcd:x:996:
+messagebus:x:995:
+syslog:x:101:
+input:x:994:
+sgx:x:993:
+clock:x:992:
+kvm:x:991:
+render:x:990:
+systemd-resolve:x:989:
+_chrony:x:988:
+_ssh:x:102:
+scanner:x:103:saned
+tss:x:987:
+ssl-cert:x:104:
+uuidd:x:105:
+systemd-oom:x:986:
+netdev:x:106:
+bluetooth:x:985:
+rdma:x:107:
+whoopsie:x:108:
+avahi:x:109:
+nm-openvpn:x:984:
+tcpdump:x:983:
+sssd:x:110:
+lpadmin:x:111:mrgrad
+fwupd-refresh:x:982:
+saned:x:112:
+geoclue:x:113:
+pipewire:x:981:
+gnome-remote-desktop:x:980:
+polkitd:x:979:
+rtkit:x:978:
+colord:x:977:
+gnome-initial-setup:x:976:
+gdm:x:975:
+lxd:x:114:mrgrad
+mrgrad:x:1000:
+gamemode:x:974:
+Beggins:x:1002:mrgrad
+bilbo:x:1001:
+]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:/home/mrgrad\]666;vte.shell.precmd!\[?2004h]0;root@mrgradNT: /home/mrgrad[01;32mroot@mrgradNT[00m:[01;34m/home/mrgrad[00m# exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+]3008;end=0c7f26ba7a694bd8b15c9bd51902162d\]666;vte.shell.postexec=0\]7;file://mrgradNT/home/mrgrad\]0;mrgrad@mrgradNT:~\]666;vte.shell.precmd!\[?2004h]0;mrgrad@mrgradNT: ~[01;32mmrgrad@mrgradNT[00m:[01;34m~[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-05-16 00:51:17+03:00 [COMMAND_EXIT_CODE="0"]
